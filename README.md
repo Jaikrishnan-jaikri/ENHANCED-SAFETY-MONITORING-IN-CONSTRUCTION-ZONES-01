@@ -1,7 +1,5 @@
 # ENHANCED-SAFETY-MONITORING-IN-CONSTRUCTION-ZONES-01
-construction-safety-monitoring
 
-Construction Safety Monitoring System
 
 This project provides an AI-powered solution for real-time safety monitoring in construction zones. It detects safety gear violations (PPE compliance), danger zone breaches, and notifies supervisors through visual dashboards and SMS alerts.
 
